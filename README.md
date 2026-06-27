@@ -10,17 +10,28 @@
   </a>
 </p>
 
-<!-- ===================== SOCIAL BADGES ===================== -->
+<!-- ===================== NIGHT CODING ANIMATION ===================== -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="420" alt="Night Coding Vibe" />
+</p>
+
+<!-- ===================== SOCIAL ICONS (ICON-ONLY, NO BACKGROUND) ===================== -->
 <p align="center">
   <a href="mailto:nguyenbaquangminh62@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-35ED7E?style=flat-square&logo=minutemailer&logoColor=000000&labelColor=0a0d3a" alt="Email" height="30"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-b%C3%A1-quang-minh-673731233" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-5865F2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0d3a" alt="LinkedIn" height="30"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.facebook.com/minh.nguyenba.31542841/" target="_blank">
-    <img src="https://img.shields.io/badge/FACEBOOK-5865F2?style=flat-square&logo=facebook&logoColor=white&labelColor=0a0d3a" alt="Facebook" height="30"/>
+    <img src="https://cdn.simpleicons.org/facebook/5865F2" height="38" alt="Facebook" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=babeo1610&style=flat-square&color=5865f2&labelColor=0a0d3a" alt="Profile Views" height="26"/>
 </p>
 
 <p align="center">
@@ -52,43 +63,30 @@ quote: "Coding under neon lights, turning coffee into playful software systems."
 
 <table align="center">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="center">
 
 **🎨 Frontend**
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0a0d3a" height="28"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0a0d3a" height="28"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0a0d3a" height="28"/>
-<img src="https://img.shields.io/badge/React-5865F2?style=flat-square&logo=react&logoColor=white&labelColor=0a0d3a" height="28"/>
-<img src="https://img.shields.io/badge/Tailwind-5865F2?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=0a0d3a" height="28"/>
-<img src="https://img.shields.io/badge/Bootstrap-5865F2?style=flat-square&logo=bootstrap&logoColor=white&labelColor=0a0d3a" height="28"/>
-</p>
+<br><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" height="50"/>
+
+<br><br>
 
 **⚙️ Backend**
-<p>
-<img src="https://img.shields.io/badge/Node.js-5865F2?style=flat-square&logo=node.js&logoColor=white&labelColor=0a0d3a" height="28"/>
-<img src="https://img.shields.io/badge/Java-5865F2?style=flat-square&logo=openjdk&logoColor=white&labelColor=0a0d3a" height="28"/>
-<img src="https://img.shields.io/badge/C++-5865F2?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=0a0d3a" height="28"/>
-</p>
+<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,cpp" height="50"/>
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="center">
 
 **🗄️ Databases**
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=0a0d3a" height="28"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0a0d3a" height="28"/>
-<img src="https://img.shields.io/badge/MSSQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white&labelColor=0a0d3a" height="28"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=0a0d3a" height="28"/>
-</p>
+<br><br>
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis" height="50"/>
+
+<br><br>
 
 **🛠️ Tools**
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0a0d3a" height="28"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=0a0d3a" height="28"/>
-<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white&labelColor=0a0d3a" height="28"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white&labelColor=0a0d3a" height="28"/>
-</p>
+<br><br>
+<img src="https://skillicons.dev/icons?i=git,github,postman,jest,arduino" height="50"/>
 
 </td>
 </tr>
@@ -121,7 +119,29 @@ quote: "Coding under neon lights, turning coffee into playful software systems."
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0d3a&height=2&section=header&width=900" alt="divider" />
 </p>
 
+<!-- ===================== MIDNIGHT VIBE STRIP ===================== -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350" alt="Coding Vibe" />
+</p>
+
+<p align="center">
+  <i>"Still up. Still building. Still vibing." 🌙✨</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0d3a&height=2&section=header&width=900" alt="divider" />
+</p>
+
 <!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=4500&pause=600&color=EC48BD&center=true&vCenter=true&width=700&lines=%3E+loading+next+commit...;%3E+vibing+through+the+darkness+%F0%9F%8C%99" alt="Footer Typing" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="220" alt="Eat Sleep Code Repeat" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5865F2,1e2353,0a0d3a&height=120&section=footer" alt="Footer Wave" />
