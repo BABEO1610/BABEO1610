@@ -21,7 +21,6 @@
   <a href="https://www.facebook.com/minh.nguyenba.31542841/" target="_blank">
     <img src="https://img.shields.io/badge/FACEBOOK-5865F2?style=flat-square&logo=facebook&logoColor=white&labelColor=0a0d3a" alt="Facebook" height="30"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=babeo1610&style=flat-square&color=5865f2&labelColor=0a0d3a" alt="Profile Views" height="30"/>
 </p>
 
 <p align="center">
@@ -123,11 +122,6 @@ quote: "Coding under neon lights, turning coffee into playful software systems."
 </p>
 
 <!-- ===================== FOOTER ===================== -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=4500&pause=600&color=EC48BD&center=true&vCenter=true&width=700&lines=%3E+loading+next+commit...;%3E+vibing+through+the+darkness+%F0%9F%8C%99" alt="Footer Typing" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5865F2,1e2353,0a0d3a&height=120&section=footer" alt="Footer Wave" />
