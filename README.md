@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BABEO</h1>
-<h3 align="center"><b>A passionate fullstack vibe coder from the earth</b></h3>
+<h3 align="center">A passionate<b> Fullstack Vibe Coder </b>from the Earth</h3>
 
 - I’m currently majoring in Software Engineering at **FPT University**.
   
