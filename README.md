@@ -4,9 +4,10 @@
 </p>
 
 <!-- ===================== TYPING SVG ===================== -->
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=5865F2&center=true&vCenter=true&width=700&lines=%3E+booting+vibe_coder.exe...;%3E+sleep(day)+%26%26+code(night);%3E+building+sleek+fullstack+systems+%E2%9C%A8;%3E+status%3A+online+%F0%9F%9F%A2" alt="Terminal Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=5865F2&center=true&vCenter=true&width=700&lines=%3E+booting+vibe_coder.exe...;%3E+sleep+by+day%2C+vibe+by+night+%F0%9F%8C%99" alt="Terminal Typing SVG" />
   </a>
 </p>
 
@@ -49,15 +50,15 @@ status: "🟢 awake at 2am, shipping code"
 quote: "Coding under neon lights, turning coffee into playful software systems."
 ```
 
-- 🎯 **Currently engineering** real-time web systems & robust full-stack architectures
-- 🧪 **Deep diving into** Software Testing methodology & precise Requirements Engineering
-- ⚡ **Powered by** cyberpunk aesthetics, lo-fi beats, and way too much caffeine
+-  **Currently engineering** real-time web systems & robust full-stack architectures
+-  **Deep diving into** Software Testing methodology & precise Requirements Engineering
+-  **Powered by** cyberpunk aesthetics, lo-fi beats, and way too much caffeine
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0d3a&height=2&section=header&width=900" alt="divider" />
 </p>
 
-### 🚀 `tech_stack --list`
+### 🚀 `Tech Stack`
 
 <table align="center">
 <tr>
@@ -94,7 +95,7 @@ quote: "Coding under neon lights, turning coffee into playful software systems."
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0d3a&height=2&section=header&width=900" alt="divider" />
 </p>
 
-### 📊 `analytics --render --theme=midnight`
+### 📊 `My performance`
 
 <p align="center">
  
@@ -111,18 +112,6 @@ quote: "Coding under neon lights, turning coffee into playful software systems."
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0d3a&height=2&section=header&width=900" alt="divider" />
 </p>
 
-<!-- ===================== MIDNIGHT VIBE STRIP ===================== -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350" alt="Coding Vibe" />
-</p>
-
-<p align="center">
-  <i>"Still up. Still building. Still vibing." 🌙✨</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0d3a&height=2&section=header&width=900" alt="divider" />
-</p>
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
@@ -131,9 +120,6 @@ quote: "Coding under neon lights, turning coffee into playful software systems."
   </a>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="220" alt="Eat Sleep Code Repeat" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5865F2,1e2353,0a0d3a&height=120&section=footer" alt="Footer Wave" />
