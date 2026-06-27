@@ -30,9 +30,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=babeo1610&style=flat-square&color=5865f2&labelColor=0a0d3a" alt="Profile Views" height="26"/>
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0d3a&height=2&section=header&width=900" alt="divider" />
@@ -99,21 +97,15 @@ quote: "Coding under neon lights, turning coffee into playful software systems."
 ### 📊 `analytics --render --theme=midnight`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=babeo1610&show_icons=true&theme=tokyonight&count_private=true&title_color=5865f2&icon_color=ec48bd&text_color=ffffff&bg_color=0a0d3a&border_color=5865f2&hide_border=false" alt="Dark Stats" height="180px" />
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=babeo1610&show_icons=true&locale=en&layout=compact&theme=tokyonight&title_color=ec48bd&bg_color=0a0d3a&border_color=5865f2&hide_border=false" alt="Top Languages" height="180px" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=babeo1610&theme=tokyonight&background=0a0d3a&ring=5865f2&fire=ec48bd&border=5865f2" alt="Dark Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=babeo1610&theme=tokyo-night&bg_color=0a0d3a&color=5865f2&line=ec48bd&point=ffffff&hide_border=true" alt="Activity Graph" width="95%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=babeo1610&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" alt="Trophies" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0d3a&height=2&section=header&width=900" alt="divider" />
