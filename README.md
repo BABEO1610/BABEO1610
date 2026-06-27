@@ -1,23 +1,65 @@
-<h1 align="center">Hi 👋, I'm BABEO</h1>
-<h3 align="center">A passionate<b> Fullstack Vibe Coder </b>from the Earth</h3>
-
-- I’m currently majoring in Software Engineering at **FPT University**.
-  
-- I’m currently focusing on learning knowledge of **Software Testing and Software Requrement**.
-
-- Ask me about **nothing**
-
-- How to reach me **nguyenbaquangminh62@gmail.com**
-
-- **Sleep by day, vibe by night.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nguyễn-bá-quang-minh-673731233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nguyễn-bá-quang-minh-673731233" height="30" width="40" /></a>
-<a href="facebook.com/minh.nguyenba.31542841/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/minh.nguyenba.31542841/" height="30" width="40" /></a>
+<!-- Dynamic Typing Animation Effect -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Nguy%E1%BB%85n+B%C3%A1+Quang+Minh;A+Passionate+Fullstack+Vibe+Coder;Sleep+by+day%2C+vibe+and+code+by+night%E2%9C%A8" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 👨‍💻 About Me
+- 🎓 Currently majoring in **Software Engineering** at **FPT University**.
+- 🎯 Deeply focusing on mastering **Software Testing** and **Software Requirements** to build high-quality systems.
+- 💬 Let's talk about: Fullstack Web Development, system architecture, or any cool real-time tech solutions.
+- ✉️ Reach me instantly via Email: **nguyenbaquangminh62@gmail.com**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=babeo1610&show_icons=true&locale=en&layout=compact" alt="babeo1610" /></p>
+---
+
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-b%C3%A1-quang-minh-673731233" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/minh.nguyenba.31542841/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+---
+
+### 🚀 Tech Stack & Tools
+
+#### 🎨 Frontend Development
+![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
+#### ⚙️ Backend Development
+![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+#### 🗄️ Databases & Caching
+![](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+#### 🛠️ Tools & Testing
+![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+---
+
+### 📊 GitHub Analytics & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=babeo1610&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=babeo1610&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=babeo1610&theme=tokyonight" alt="GitHub Streak" />
+</p>
