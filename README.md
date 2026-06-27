@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Bá Quang Minh</h1>
 <h3 align="center">A passionate fullstack vibe coder from the earth</h3>
 
-- 🌱 I’m currently learning **Vuejs**
+- I’m currently majoring in Software Engineering at **FPT University**.
+  
+- I’m currently focusing on learning knowledge of **Software Testing and Software Requrement**.
 
-- 💬 Ask me about **nothing**
+- Ask me about **nothing**
 
-- 📫 How to reach me **nguyenbaquangminh62@gmail.com**
+- How to reach me **nguyenbaquangminh62@gmail.com**
 
-- ⚡ Fun fact **Sleep by day, vibe by night.**
+- **Sleep by day, vibe by night.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
