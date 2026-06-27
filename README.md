@@ -50,9 +50,9 @@ status: "🟢 awake at 2am, shipping code"
 quote: "Coding under neon lights, turning coffee into playful software systems."
 ```
 
--  **Currently engineering** real-time web systems & robust full-stack architectures
--  **Deep diving into** Software Testing methodology & precise Requirements Engineering
--  **Powered by** cyberpunk aesthetics, lo-fi beats, and way too much caffeine
+ About Me
+-  Currently majoring in **Software Engineering** at **FPT University**.
+-  Deeply focusing on mastering **Software Testing** and **Software Requirements** to build high-quality systems.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0d3a&height=2&section=header&width=900" alt="divider" />
